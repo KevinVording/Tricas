@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductCollection>
+  <Products>
+    <Product name="Cube">
+      <ID>1</ID>
+      <Description>Lorum Ipsum Cube</Description>
+      <Info>This is a Cube</Info>
+      <Image></Image>
+    </Product>
+    <Product name="Sphere">
+      <ID>2</ID>
+      <Description>Lorum Ipsum Sphere</Description>
+      <Info>This is a Sphere</Info>
+      <Image></Image>
+    </Product>
+  </Products>
+</ProductCollection>

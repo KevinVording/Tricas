@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 2e3357f8a4e37ac47b97ee2c2cf333e5
+timeCreated: 1448958066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boss-Extrude11
+    100002: Cut-Extrude11[1]
+    100004: Cut-Extrude11[2]
+    100006: Cut-Extrude11[3]
+    100008: Cut-Extrude11[4]
+    100010: Cut-Extrude17[1]
+    100012: Cut-Extrude17[2]
+    100014: Cut-Extrude2
+    100016: Cut-Extrude8
+    100018: Cut-Extrude9
+    100020: //RootNode
+    100022: LPattern2
+    100024: Move Face1
+    100026: Move Face6
+    100028: Surface-Trim1
+    100030: Tricas Building V4 - OBJ
+    100032: Tricas Building V4.SLDPRT
+    100034: Tricas Building V4.SLDPRT 1
+    400000: Boss-Extrude11
+    400002: Cut-Extrude11[1]
+    400004: Cut-Extrude11[2]
+    400006: Cut-Extrude11[3]
+    400008: Cut-Extrude11[4]
+    400010: Cut-Extrude17[1]
+    400012: Cut-Extrude17[2]
+    400014: Cut-Extrude2
+    400016: Cut-Extrude8
+    400018: Cut-Extrude9
+    400020: //RootNode
+    400022: LPattern2
+    400024: Move Face1
+    400026: Move Face6
+    400028: Surface-Trim1
+    400030: Tricas Building V4 - OBJ
+    400032: Tricas Building V4.SLDPRT
+    400034: Tricas Building V4.SLDPRT 1
+    2300000: Boss-Extrude11
+    2300002: Cut-Extrude11[1]
+    2300004: Cut-Extrude11[2]
+    2300006: Cut-Extrude11[3]
+    2300008: Cut-Extrude11[4]
+    2300010: Cut-Extrude17[1]
+    2300012: Cut-Extrude17[2]
+    2300014: Cut-Extrude2
+    2300016: Cut-Extrude8
+    2300018: Cut-Extrude9
+    2300020: LPattern2
+    2300022: Move Face1
+    2300024: Move Face6
+    2300026: Surface-Trim1
+    2300028: Tricas Building V4 - OBJ
+    3300000: Boss-Extrude11
+    3300002: Cut-Extrude11[1]
+    3300004: Cut-Extrude11[2]
+    3300006: Cut-Extrude11[3]
+    3300008: Cut-Extrude11[4]
+    3300010: Cut-Extrude17[1]
+    3300012: Cut-Extrude17[2]
+    3300014: Cut-Extrude2
+    3300016: Cut-Extrude8
+    3300018: Cut-Extrude9
+    3300020: LPattern2
+    3300022: Move Face1
+    3300024: Move Face6
+    3300026: Surface-Trim1
+    3300028: Tricas Building V4 - OBJ
+    4300000: Tricas Building V4 - OBJ
+    4300002: Cut-Extrude2
+    4300004: Boss-Extrude11
+    4300006: Move Face1
+    4300008: Cut-Extrude8
+    4300010: LPattern2
+    4300012: Cut-Extrude9
+    4300014: Cut-Extrude11[1]
+    4300016: Cut-Extrude11[2]
+    4300018: Cut-Extrude11[3]
+    4300020: Cut-Extrude11[4]
+    4300022: Surface-Trim1
+    4300024: Move Face6
+    4300026: Cut-Extrude17[1]
+    4300028: Cut-Extrude17[2]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
