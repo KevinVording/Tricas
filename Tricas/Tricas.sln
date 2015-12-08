@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tricas.CSharp.Plugins", "Tricas.CSharp.Plugins.csproj", "{3C81A2F5-84AD-3651-E12A-0E617C747F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tricas.CSharp", "Tricas.CSharp.csproj", "{937AC001-E50D-DBC9-B8CB-A586D0EAEB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tricas.CSharp.Editor", "Tricas.CSharp.Editor.csproj", "{FB5289FF-0F98-0FCC-59FF-4DD9ACC9C873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C81A2F5-84AD-3651-E12A-0E617C747F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C81A2F5-84AD-3651-E12A-0E617C747F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C81A2F5-84AD-3651-E12A-0E617C747F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C81A2F5-84AD-3651-E12A-0E617C747F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937AC001-E50D-DBC9-B8CB-A586D0EAEB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937AC001-E50D-DBC9-B8CB-A586D0EAEB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937AC001-E50D-DBC9-B8CB-A586D0EAEB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937AC001-E50D-DBC9-B8CB-A586D0EAEB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5289FF-0F98-0FCC-59FF-4DD9ACC9C873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5289FF-0F98-0FCC-59FF-4DD9ACC9C873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5289FF-0F98-0FCC-59FF-4DD9ACC9C873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5289FF-0F98-0FCC-59FF-4DD9ACC9C873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
